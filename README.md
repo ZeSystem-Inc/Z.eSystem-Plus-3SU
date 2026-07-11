@@ -60,6 +60,3 @@ qemu-system-i386 -drive file=hdd.img,format=raw,index=0,media=disk
 ```
 
 You are now ready to use Z.eSystem!
-
-
-__NOTE:__ AHCI support will be available in Z.eSystem Plus 3. If you intend to use the Z.eSystem source code, please comply with the MPL 2.0 license.
